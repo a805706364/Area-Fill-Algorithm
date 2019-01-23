@@ -11,6 +11,10 @@
 ## Exmaple
   
   ### Input
-  
+  ![in1](https://user-images.githubusercontent.com/34955038/51575472-39066380-1ed8-11e9-886d-0bcbdce192d5.PNG)
+
   ### Output
+  ![out1](https://user-images.githubusercontent.com/34955038/51575471-386dcd00-1ed8-11e9-93eb-6e1ab840504f.PNG)
+
+
   
